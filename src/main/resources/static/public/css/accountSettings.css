@@ -1,0 +1,167 @@
+.u-section-1 {
+  background-image: url("../images/900b16a7b8cd90d26f4fd3ea799c4cae97fa9d83bac513a1be9f3d26a19fa482f36d188ce5a47ef501cdec7530169169edb1252c5c7ba4b338b869_1280.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 421px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 801px;
+  min-height: 344px;
+  background-image: none;
+  margin: 55px auto 22px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 7px 30px;
+}
+
+.u-section-1 .u-text-1 {
+  letter-spacing: normal;
+  font-size: 2.25rem;
+  font-weight: 200;
+  text-transform: none;
+  margin: 1px 30px 0 15px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 181px;
+  width: 558px;
+  margin: 42px 148px 0 82px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 347px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 811px;
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 266px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 107px;
+    margin-left: 41px;
+    width: 706px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 200px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 0;
+    margin-left: 0;
+    width: 526px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 126px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 326px;
+  }
+}
+
+
+.myLogInMainDiv {
+    width: 100%;
+}
+/* My css */
+
+.myInputField {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.myInputButtonDiv {
+    width: 250px;
+    margin: auto;
+}
+
+.myInputButton {
+    width: 100%;
+    border-radius: 25px;
+    background-color: #fff200;
+    margin: 8px 0px auto;
+    color: black;
+    font-size: 20px;
+}
+
+.myYellowRoundButtonDiv {
+    width: 300px;
+    margin: auto;
+}
+
+.myRoundButton {
+    width: 100%;
+    border-radius: 25px;
+    margin: 20px 0px auto;
+    color: black;
+    font-size: 20px;
+}
+.myYellow{
+    background-color: #fff200;
+}
+.myGreen{
+    background-color: #09ff00;
+}
+
+.myButton:hover {
+    opacity: 0.8;
+}
+.myContainer {
+    padding: 16px;
+    margin: auto;
+}
+
+.right{
+    float: right;
+}
+.cancelButton {
+    width: auto;
+    background-color: #f44336;
+}
+.mySaveCancelContainer{
+    background-color:#f1f1f1;
+    margin: 0px 40px auto;
+}
